@@ -1,4 +1,5 @@
 This repository includes the data (verbalS.csv) and statistical analysis code (verbalS.R) associated with:
+
 Sims, Nandi (Forthcoming). Verbal -s variation in earlier African American English._Journal of English Linguistics._ 
 
 **Coding Schema**
