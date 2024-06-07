@@ -3,9 +3,8 @@ This repository includes the data (verbalS.csv) and statistical analysis code (v
 Sims, Nandi (Forthcoming). Verbal -s variation in earlier African American English. _Journal of English Linguistics._ 
 
 
-**CODING SCHEMA**
-
-**Sentence:** The full sentence the target verb is in
+<br><br>**CODING SCHEMA**
+<br>**Sentence:** The full sentence the target verb is in
 
 **Interviewee:** Name of interviewee
       <br>Example Levels: Jesse Rice, Henry Garry, etc.
@@ -55,7 +54,6 @@ Sims, Nandi (Forthcoming). Verbal -s variation in earlier African American Engli
      <br>Levels: dhg, rest
 
 
-**ANALYSIS NOTE**
-
-Some levels were removed from the analysis either because there was not enough tokens to warrant their analysis (discourse in Aspect and Null in Type_of_Subject) or because there was a potential flaw in the thinking of the original coding (P in Following_Segment).
+<br><br>**ANALYSIS NOTE**
+<br>Some levels were removed from the analysis either because there was not enough tokens to warrant their analysis (discourse in Aspect and Null in Type_of_Subject) or because there was a potential flaw in the thinking of the original coding (P in Following_Segment).
       
