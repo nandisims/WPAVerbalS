@@ -2,12 +2,13 @@ This repository includes the data (verbalS.csv) and statistical analysis code (v
 
 Sims, Nandi (Forthcoming). Verbal -s variation in earlier African American English. _Journal of English Linguistics._ 
 
+
 **Coding Schema**
 
 Sentence: The full sentence the target verb is in
 
 Interviewee: Name of interviewee
-      Example Levels: Jesse Rice, Henry Garry, etc.
+      <br>Example Levels: Jesse Rice, Henry Garry, etc.
 
 State: Home state of interviewee 
       Levels: AL, GA, MS, NC, SC, TN
